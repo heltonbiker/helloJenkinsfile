@@ -1,0 +1,1 @@
+echo "Echoing from inside build.bat"
